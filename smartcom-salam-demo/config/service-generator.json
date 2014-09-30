@@ -1,0 +1,61 @@
+{
+    "seed": 1001,
+    "numberOfElements": 20,
+    "singleElementSingleServices": true,
+    "connection": {
+	    "probabilityToConnect": 1.0,
+	    "weight": {"class": "NormalDistribution", "params": [10, 1, 1.0E-9]}
+    },
+    "services": [
+        {   
+            "functionality": "S1",
+            "probabilityToHave": 0.8,
+            "properties": [
+                {
+                    "type": "skill",
+                    "name": "skill_d1",
+                    "value": {"class": "NormalDistribution", "params": [0.7, 0.2, 1.0E-9]},   
+                    "probabilityToHave": 1.0
+                }
+            ]
+        },
+        {   
+            "functionality": "S2",
+            "probabilityToHave": 0.8,
+            "properties": [
+                {
+                    "type": "skill",
+                    "name": "skill_d2",
+                    "value": {"class": "NormalDistribution", "params": [0.7, 0.2, 1.0E-9]},  
+                    "probabilityToHave": 1.0
+                }
+            ]
+        },
+        {   
+            "functionality": "S3",
+            "probabilityToHave": 0.8,
+            "properties": [
+                {
+                    "type": "skill",
+                    "name": "skill_d3",
+                    "value": {"class": "NormalDistribution", "params": [1.0, 0.01, 1.0E-9]},    
+                    "probabilityToHave": 1.0
+                }
+            ]
+        }
+    ],
+    "commonProperties": [
+        {
+            "type": "static",
+            "name": "performance_rating",
+            "value": {"class": "NormalDistribution", "params": [0.7, 0.2, 1.0E-9]},   
+            "probabilityToHave": 1.0
+        },
+        {
+            "type": "static",
+            "name": "cost",
+            "value": {"class": "NormalDistribution", "params": [0.7, 0.2, 1.0E-9]},   
+            "probabilityToHave": 1.0
+        }
+    ]
+}

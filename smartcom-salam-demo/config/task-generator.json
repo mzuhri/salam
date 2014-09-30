@@ -1,0 +1,117 @@
+{
+    "seed": 1001,
+    "taskTypes": [
+        { 
+            "name": "Task",
+            "description": "Task",
+            "isRootTask": true,
+            "tasksOccurance": {"class": "java.lang.Integer", "params": [10], "sampleMethod": "doubleValue"},
+            "load": {"class": "NormalDistribution", "params": [3, 0.5, 1.0E-9]},  
+            "roles": [
+                {   
+                    "functionality": "D1",
+                    "probabilityToHave": 1.0,
+                    "relativeLoadRatio": 1.0,
+                    "specification": [ 
+                        {
+                            "type": "skill",
+                            "name": "skill_d1",
+                            "value": {"class": "UniformIntegerDistribution", "params": [0, 2], 
+                                        "mapping": {"0": "poor", "1": "fair", "2": "good", "3": "very_good"}},
+                            "probabilityToHave": 1.0,
+                            "comparator": "scu.common.sla.comparator.FuzzyComparator"
+                        }
+                    ]
+                },
+                {   
+                    "functionality": "D2",
+                    "probabilityToHave": 1.0,
+                    "relativeLoadRatio": 1.2,
+                    "dependsOn": ["*D1"],
+                    "specification": [ 
+                        {
+                            "type": "skill",
+                            "name": "skill_d2",
+                            "value": {"class": "UniformIntegerDistribution", "params": [0, 2], 
+                                        "mapping": {"0": "poor", "1": "fair", "2": "good", "3": "very_good"}},
+                            "probabilityToHave": 1.0,
+                            "comparator": "scu.common.sla.comparator.FuzzyComparator"
+                        }
+                    ]
+                },
+                {   
+                    "functionality": "D3",
+                    "probabilityToHave": 1.0,
+                    "dependsOn": ["*D1"],
+                    "relativeLoadRatio": 1.2,
+                    "specification": [ 
+                        {
+                            "type": "skill",
+                            "name": "skill_d3",
+                            "value": {"class": "UniformIntegerDistribution", "params": [0, 2], 
+                                        "mapping": {"0": "poor", "1": "fair", "2": "good", "3": "very_good"}},
+                            "probabilityToHave": 1.0,
+                            "comparator": "scu.common.sla.comparator.FuzzyComparator"
+                        }
+                    ]
+                },
+                {   
+                    "functionality": "D4",
+                    "probabilityToHave": 1.0,
+                    "dependsOn": ["*D2", "*D3"],
+                    "relativeLoadRatio": 1.5,
+                    "specification": [ 
+                        {
+                            "type": "skill",
+                            "name": "skill_d4",
+                            "value": {"class": "UniformIntegerDistribution", "params": [0, 2], 
+                                        "mapping": {"0": "poor", "1": "fair", "2": "good", "3": "very_good"}},
+                            "probabilityToHave": 1.0,
+                            "comparator": "scu.common.sla.comparator.FuzzyComparator"
+                        }
+                    ]
+                },
+                {   
+                    "functionality": "D5",
+                    "probabilityToHave": 1.0,
+                    "dependsOn": ["*D1", "*D2", "*D3", "*D4"],
+                    "relativeLoadRatio": 2.0,
+                    "specification": [ 
+                        {
+                            "type": "skill",
+                            "name": "skill_d5",
+                            "value": {"class": "UniformIntegerDistribution", "params": [0, 2], 
+                                        "mapping": {"0": "poor", "1": "fair", "2": "good", "3": "very_good"}},
+                            "probabilityToHave": 1.0,
+                            "comparator": "scu.common.sla.comparator.FuzzyComparator"
+                        }
+                    ]
+                }
+            ],
+            "subTaskTypes": [],
+            "specification": [
+                {
+                    "type": "static",
+                    "name": "deadline",
+                    "value": {"class": "NormalDistribution", "params": [1000, 10, 1.0E-9]},
+                    "probabilityToHave": 1.0
+                },
+                {
+                    "type": "static",
+                    "name": "cost_limit",
+                    "value": {"class": "NormalDistribution", "params": [1000, 1, 1.0E-9]},
+                    "probabilityToHave": 1.0
+                },
+                {
+                    "type": "static",
+                    "name": "connectedness",
+                    "value": {"class": "UniformIntegerDistribution", "params": [0, 1], 
+                              "mapping": {"0": "poor", "1": "fair", "2": "good", "3": "very_good"}},
+                    "probabilityToHave": 1.0
+                }
+            ] 
+        }
+        
+    ]
+    
+}
