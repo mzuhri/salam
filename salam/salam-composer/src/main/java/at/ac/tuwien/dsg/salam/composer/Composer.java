@@ -205,7 +205,7 @@ public class Composer implements ComposerInterface {
 
             // init algorithm
             algorithm = (ComposerAlgorithmInterface)Class
-                    .forName("scu.composer.algorithm." + algoName).newInstance();
+                    .forName("at.ac.tuwien.dsg.salam.composer.algorithm." + algoName).newInstance();
             algorithm.init(configFile, constructionGraph, this);
 
             // solve

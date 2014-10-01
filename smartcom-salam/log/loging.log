@@ -1,0 +1,2310 @@
+2014-09-30 12:47:38 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 12:47:38 INFO  SmartCom:84 - Adding external components...
+2014-09-30 12:47:38 INFO  SmartCom:91 - Starting databases...
+2014-09-30 12:47:41 INFO  SmartCom:100 - Initializing components...
+2014-09-30 12:47:42 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 12:47:42 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 12:47:42 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 12:47:42 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 12:47:42 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52516-1412074062559-0:1) is starting
+2014-09-30 12:47:42 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 12:47:42 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 12:47:42 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52516-1412074062559-0:1) started
+2014-09-30 12:47:42 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 12:47:42 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 12:47:42 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 12:47:44 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 12:47:44 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 12:47:47 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 12:47:48 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 12:48:23 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 12:48:24 INFO  SmartCom:84 - Adding external components...
+2014-09-30 12:48:24 INFO  SmartCom:91 - Starting databases...
+2014-09-30 12:48:26 INFO  SmartCom:100 - Initializing components...
+2014-09-30 12:48:40 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 12:48:40 INFO  SmartCom:84 - Adding external components...
+2014-09-30 12:48:40 INFO  SmartCom:91 - Starting databases...
+2014-09-30 12:48:42 INFO  SmartCom:100 - Initializing components...
+2014-09-30 12:48:43 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 12:48:43 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 12:48:43 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 12:48:44 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 12:48:44 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52588-1412074124350-0:1) is starting
+2014-09-30 12:48:44 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 12:48:44 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 12:48:44 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52588-1412074124350-0:1) started
+2014-09-30 12:48:44 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 12:48:44 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 12:48:44 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 12:48:45 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 12:48:46 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 12:48:48 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 12:48:48 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 12:54:20 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 12:54:21 INFO  SmartCom:84 - Adding external components...
+2014-09-30 12:54:21 INFO  SmartCom:91 - Starting databases...
+2014-09-30 12:54:23 INFO  SmartCom:100 - Initializing components...
+2014-09-30 12:54:24 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 12:54:24 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 12:54:24 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 12:54:24 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 12:54:25 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52732-1412074465013-0:1) is starting
+2014-09-30 12:54:25 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 12:54:25 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 12:54:25 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52732-1412074465013-0:1) started
+2014-09-30 12:54:25 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 12:54:25 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 12:54:25 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 12:54:26 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 12:54:26 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 12:54:29 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 12:54:29 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 12:54:48 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 3243c470-4890-11e4-81d7-001f162c4aa0 received. Discarding.
+2014-09-30 12:58:07 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 12:58:07 INFO  SmartCom:84 - Adding external components...
+2014-09-30 12:58:07 INFO  SmartCom:91 - Starting databases...
+2014-09-30 12:58:09 INFO  SmartCom:100 - Initializing components...
+2014-09-30 12:58:10 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 12:58:10 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 12:58:10 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 12:58:11 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 12:58:11 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52818-1412074691579-0:1) is starting
+2014-09-30 12:58:11 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 12:58:11 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 12:58:11 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52818-1412074691579-0:1) started
+2014-09-30 12:58:11 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 12:58:11 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 12:58:11 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 12:58:12 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 12:58:12 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 12:58:15 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 12:58:15 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 12:58:24 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID b2c9fd30-4890-11e4-8c69-001f162c4aa0 received. Discarding.
+2014-09-30 13:09:33 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:09:33 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:09:33 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:09:36 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:09:36 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:09:36 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:09:36 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:09:37 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:09:37 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52928-1412075377639-0:1) is starting
+2014-09-30 13:09:37 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:09:37 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:09:37 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-52928-1412075377639-0:1) started
+2014-09-30 13:09:37 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:09:37 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:09:37 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:09:38 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:09:38 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:09:41 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:09:41 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:09:49 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 4b15ea30-4892-11e4-b460-001f162c4aa0 received. Discarding.
+2014-09-30 13:30:44 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:30:44 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:30:44 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:30:46 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:30:47 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:30:47 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:30:47 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:30:47 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:30:48 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53110-1412076648155-0:1) is starting
+2014-09-30 13:30:48 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:30:48 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:30:48 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53110-1412076648155-0:1) started
+2014-09-30 13:30:48 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:30:48 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:30:48 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:30:49 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:30:49 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:30:51 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:30:51 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:31:00 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 40ad3e60-4895-11e4-a4d5-001f162c4aa0 received. Discarding.
+2014-09-30 13:36:23 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:36:23 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:36:23 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:36:25 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:36:26 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:36:26 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:36:26 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:36:27 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:36:27 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53190-1412076987335-0:1) is starting
+2014-09-30 13:36:27 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:36:27 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:36:27 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53190-1412076987335-0:1) started
+2014-09-30 13:36:27 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:36:27 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:36:27 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:36:28 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:36:28 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:36:30 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:36:31 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:36:31 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='bcd5f822-f1d5-44cd-b74b-aa56d3f35b1b', postfix=''}
+2014-09-30 13:36:32 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:36:32 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:36:32 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:36:32 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.request.' with id Identifier{type=ADAPTER, id='bcd5f822-f1d5-44cd-b74b-aa56d3f35b1b', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishRequest(ApacheActiveMQMessageBroker.java:253)
+	at at.ac.tuwien.dsg.smartcom.manager.am.AdapterManagerImpl$1.run(AdapterManagerImpl.java:90)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+2014-09-30 13:36:32 INFO  BrokerService:741 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53190-1412076987335-0:1) is shutting down
+2014-09-30 13:36:32 INFO  TransportConnector:294 - Connector tcp://127.0.0.1:61616 stopped
+2014-09-30 13:36:32 INFO  PListStoreImpl:356 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] stopped
+2014-09-30 13:36:32 INFO  KahaDBStore:233 - Stopping async queue tasks
+2014-09-30 13:36:32 INFO  KahaDBStore:247 - Stopping async topic tasks
+2014-09-30 13:36:32 INFO  KahaDBStore:275 - Stopped KahaDB
+2014-09-30 13:36:32 INFO  BrokerService:802 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53190-1412076987335-0:1) uptime 6.631 seconds
+2014-09-30 13:36:32 INFO  BrokerService:804 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53190-1412076987335-0:1) is shutdown
+2014-09-30 13:36:32 INFO  MessagingAndRoutingManager:98 - Executor will be shut down
+2014-09-30 13:36:32 INFO  MessagingAndRoutingManager:130 - Executor shutdown complete!
+2014-09-30 13:36:32 INFO  AdapterExecutionEngine:58 - Executor will be shut down
+2014-09-30 13:36:33 INFO  AdapterExecutionEngine:97 - Executor shutdown complete!
+2014-09-30 13:37:20 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:37:20 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:37:20 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:37:22 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:37:23 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:37:23 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:37:23 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:37:24 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:37:24 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53263-1412077044226-0:1) is starting
+2014-09-30 13:37:24 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:37:24 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:37:24 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53263-1412077044226-0:1) started
+2014-09-30 13:37:24 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:37:24 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:37:24 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:37:25 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:37:25 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:37:27 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:37:28 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:37:28 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:37:28 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:37:28 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:37:28 ERROR ApacheActiveMQMessageBroker:209 - Error while sending queue://SmartCom.log message
+javax.jms.IllegalStateException: The producer is closed
+	at org.apache.activemq.ActiveMQMessageProducer.checkClosed(ActiveMQMessageProducer.java:196)
+	at org.apache.activemq.ActiveMQMessageProducerSupport.setDeliveryMode(ActiveMQMessageProducerSupport.java:136)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.initLocalSessionAndProducer(ApacheActiveMQMessageBroker.java:227)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.sendMessage(ApacheActiveMQMessageBroker.java:204)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishLog(ApacheActiveMQMessageBroker.java:333)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$1.run(MessagingAndRoutingManagerImpl.java:148)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:37:28 INFO  BrokerService:741 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53263-1412077044226-0:1) is shutting down
+2014-09-30 13:37:28 INFO  TransportConnector:294 - Connector tcp://127.0.0.1:61616 stopped
+2014-09-30 13:37:28 INFO  PListStoreImpl:356 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] stopped
+2014-09-30 13:37:28 INFO  KahaDBStore:233 - Stopping async queue tasks
+2014-09-30 13:37:28 INFO  KahaDBStore:247 - Stopping async topic tasks
+2014-09-30 13:37:28 INFO  KahaDBStore:275 - Stopped KahaDB
+2014-09-30 13:37:29 INFO  BrokerService:802 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53263-1412077044226-0:1) uptime 6.166 seconds
+2014-09-30 13:37:29 INFO  BrokerService:804 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53263-1412077044226-0:1) is shutdown
+2014-09-30 13:37:29 INFO  MessagingAndRoutingManager:98 - Executor will be shut down
+2014-09-30 13:37:29 INFO  MessagingAndRoutingManager:130 - Executor shutdown complete!
+2014-09-30 13:37:29 INFO  AdapterExecutionEngine:58 - Executor will be shut down
+2014-09-30 13:37:29 INFO  AdapterExecutionEngine:97 - Executor shutdown complete!
+2014-09-30 13:38:05 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:38:05 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:38:05 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:38:07 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:38:08 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:38:08 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:38:08 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:38:09 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:38:09 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53331-1412077089617-0:1) is starting
+2014-09-30 13:38:09 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:38:09 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:38:09 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53331-1412077089617-0:1) started
+2014-09-30 13:38:09 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:38:09 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:38:09 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:38:10 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:38:10 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:38:13 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:38:13 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:38:13 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:38:13 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:38:13 ERROR ApacheActiveMQMessageBroker:241 - Error while sending message to queue 'SmartCom.task.' with id Identifier{type=ADAPTER, id='Email', postfix=''} message
+javax.jms.IllegalStateException: The Session is closed
+	at org.apache.activemq.ActiveMQSession.checkClosed(ActiveMQSession.java:767)
+	at org.apache.activemq.ActiveMQSession.createQueue(ActiveMQSession.java:1265)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.createDestination(ApacheActiveMQMessageBroker.java:239)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishOutput(ApacheActiveMQMessageBroker.java:268)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$3.run(MessagingAndRoutingManagerImpl.java:331)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:38:14 ERROR ApacheActiveMQMessageBroker:209 - Error while sending queue://SmartCom.log message
+javax.jms.IllegalStateException: The producer is closed
+	at org.apache.activemq.ActiveMQMessageProducer.checkClosed(ActiveMQMessageProducer.java:196)
+	at org.apache.activemq.ActiveMQMessageProducerSupport.setDeliveryMode(ActiveMQMessageProducerSupport.java:136)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.initLocalSessionAndProducer(ApacheActiveMQMessageBroker.java:227)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.sendMessage(ApacheActiveMQMessageBroker.java:204)
+	at at.ac.tuwien.dsg.smartcom.broker.impl.ApacheActiveMQMessageBroker.publishLog(ApacheActiveMQMessageBroker.java:333)
+	at at.ac.tuwien.dsg.smartcom.messaging.MessagingAndRoutingManagerImpl$1.run(MessagingAndRoutingManagerImpl.java:148)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2014-09-30 13:38:14 INFO  BrokerService:741 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53331-1412077089617-0:1) is shutting down
+2014-09-30 13:38:14 INFO  TransportConnector:294 - Connector tcp://127.0.0.1:61616 stopped
+2014-09-30 13:38:14 INFO  PListStoreImpl:356 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] stopped
+2014-09-30 13:38:14 INFO  KahaDBStore:233 - Stopping async queue tasks
+2014-09-30 13:38:14 INFO  KahaDBStore:247 - Stopping async topic tasks
+2014-09-30 13:38:14 INFO  KahaDBStore:275 - Stopped KahaDB
+2014-09-30 13:38:14 INFO  BrokerService:802 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53331-1412077089617-0:1) uptime 6.103 seconds
+2014-09-30 13:38:14 INFO  BrokerService:804 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53331-1412077089617-0:1) is shutdown
+2014-09-30 13:38:14 INFO  MessagingAndRoutingManager:98 - Executor will be shut down
+2014-09-30 13:38:14 INFO  MessagingAndRoutingManager:130 - Executor shutdown complete!
+2014-09-30 13:38:14 INFO  AdapterExecutionEngine:58 - Executor will be shut down
+2014-09-30 13:38:14 INFO  AdapterExecutionEngine:97 - Executor shutdown complete!
+2014-09-30 13:38:32 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:38:32 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:38:32 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:38:34 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:38:35 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:38:35 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:38:35 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:38:35 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:38:36 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53397-1412077115960-0:1) is starting
+2014-09-30 13:38:36 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:38:36 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:38:36 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53397-1412077115960-0:1) started
+2014-09-30 13:38:36 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:38:36 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:38:36 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:38:37 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:38:37 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:38:39 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:38:39 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:38:47 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 5734f460-4896-11e4-8adb-001f162c4aa0 received. Discarding.
+2014-09-30 13:40:13 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:40:13 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:40:13 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:40:15 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:40:15 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:40:15 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:40:16 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:40:16 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:40:16 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53471-1412077216625-0:1) is starting
+2014-09-30 13:40:16 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:40:16 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:40:16 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53471-1412077216625-0:1) started
+2014-09-30 13:40:16 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:40:16 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:40:16 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:40:17 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:40:17 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:40:20 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:40:20 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:40:20 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='65849055-4f95-4080-826b-c9b7e88df58a', postfix=''}
+2014-09-30 13:40:28 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 936c2570-4896-11e4-9773-001f162c4aa0 received. Discarding.
+2014-09-30 13:41:35 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 13:41:35 INFO  SmartCom:84 - Adding external components...
+2014-09-30 13:41:35 INFO  SmartCom:91 - Starting databases...
+2014-09-30 13:41:37 INFO  SmartCom:100 - Initializing components...
+2014-09-30 13:41:38 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 13:41:38 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 13:41:38 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 13:41:39 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 13:41:39 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53564-1412077299390-0:1) is starting
+2014-09-30 13:41:39 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 13:41:39 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 13:41:39 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-53564-1412077299390-0:1) started
+2014-09-30 13:41:39 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 13:41:39 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33674 mb of usable space - resetting to maximum available disk space: 33674 mb
+2014-09-30 13:41:39 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33674 mb of usable space - resetting to maximum available 33674 mb.
+2014-09-30 13:41:40 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 13:41:40 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 13:41:42 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 13:41:43 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 13:41:43 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='8330c2ff-e811-4ec7-b1d5-eb5e413f0fdf', postfix=''}
+2014-09-30 13:41:51 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID c4e7b010-4896-11e4-b627-001f162c4aa0 received. Discarding.
+2014-09-30 14:03:58 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:03:58 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:03:58 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:04:01 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:04:11 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:04:12 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:04:12 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:04:14 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:04:15 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:04:15 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:04:15 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:04:15 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:04:16 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55291-1412078656108-0:1) is starting
+2014-09-30 14:04:16 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:04:16 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:04:16 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55291-1412078656108-0:1) started
+2014-09-30 14:04:16 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:04:16 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33575 mb of usable space - resetting to maximum available disk space: 33575 mb
+2014-09-30 14:04:16 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33575 mb of usable space - resetting to maximum available 33575 mb.
+2014-09-30 14:04:17 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:04:17 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:04:19 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:04:19 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:04:20 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='e93e26ef-3924-451f-af2e-44d7def42d02', postfix=''}
+2014-09-30 14:04:28 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID edeb6260-4899-11e4-aa62-001f162c4aa0 received. Discarding.
+2014-09-30 14:17:48 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:17:48 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:17:48 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:17:51 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:17:52 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:17:52 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:17:52 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:17:52 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:17:53 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55618-1412079472851-0:1) is starting
+2014-09-30 14:17:53 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:17:53 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:17:53 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55618-1412079472851-0:1) started
+2014-09-30 14:17:53 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:17:53 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33575 mb of usable space - resetting to maximum available disk space: 33575 mb
+2014-09-30 14:17:53 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33575 mb of usable space - resetting to maximum available 33575 mb.
+2014-09-30 14:17:54 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:17:54 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:17:56 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:17:56 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:17:57 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='17ff360f-cfb9-4535-8eb1-daa8e32053a9', postfix=''}
+2014-09-30 14:17:57 ERROR InputAdapterExecution:63 - Adapter 17ff360f-cfb9-4535-8eb1-daa8e32053a9: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:17:58 ERROR InputAdapterExecution:63 - Adapter 17ff360f-cfb9-4535-8eb1-daa8e32053a9: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:17:59 ERROR InputAdapterExecution:63 - Adapter 17ff360f-cfb9-4535-8eb1-daa8e32053a9: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:00 ERROR InputAdapterExecution:63 - Adapter 17ff360f-cfb9-4535-8eb1-daa8e32053a9: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:01 ERROR InputAdapterExecution:63 - Adapter 17ff360f-cfb9-4535-8eb1-daa8e32053a9: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:02 ERROR InputAdapterExecution:63 - Adapter 17ff360f-cfb9-4535-8eb1-daa8e32053a9: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:03 ERROR InputAdapterExecution:63 - Adapter 17ff360f-cfb9-4535-8eb1-daa8e32053a9: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:21 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:18:21 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:18:21 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:18:23 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:18:24 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:18:24 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:18:24 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:18:24 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:18:25 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55688-1412079505038-0:1) is starting
+2014-09-30 14:18:25 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:18:25 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:18:25 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55688-1412079505038-0:1) started
+2014-09-30 14:18:25 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:18:25 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33575 mb of usable space - resetting to maximum available disk space: 33575 mb
+2014-09-30 14:18:25 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33575 mb of usable space - resetting to maximum available 33575 mb.
+2014-09-30 14:18:26 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:18:26 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:18:28 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:18:29 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:18:29 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='42d31a55-828d-463b-b0a8-45fb095f9489', postfix=''}
+2014-09-30 14:18:29 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:30 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:31 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:32 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:33 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:34 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:35 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:36 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:37 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:38 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:39 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:40 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:41 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:42 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:43 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:44 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:45 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:46 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:47 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:48 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:49 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:50 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:51 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:52 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:53 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:54 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:55 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:56 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:57 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:58 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:18:59 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:00 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:01 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:02 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:03 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:04 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:05 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:06 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:07 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:08 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:09 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:10 ERROR InputAdapterExecution:63 - Adapter 42d31a55-828d-463b-b0a8-45fb095f9489: Error while checking response
+at.ac.tuwien.dsg.smartcom.adapter.exception.AdapterException: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:79)
+	at at.ac.tuwien.dsg.smartcom.manager.am.adapter.InputAdapterExecution.run(InputAdapterExecution.java:61)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.mail.util.MailConnectException: Couldn't connect to host, port: pop.gmail.com, 995; timeout -1;
+  nested exception is:
+	java.net.UnknownHostException: pop.gmail.com
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:211)
+	at javax.mail.Service.connect(Service.java:386)
+	at javax.mail.Service.connect(Service.java:245)
+	at javax.mail.Service.connect(Service.java:194)
+	at at.ac.tuwien.dsg.smartcom.adapters.email.MailUtils.getMail(MailUtils.java:78)
+	at at.ac.tuwien.dsg.smartcom.adapters.EmailInputAdapter.pull(EmailInputAdapter.java:47)
+	... 6 more
+Caused by: java.net.UnknownHostException: pop.gmail.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:312)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.pop3.Protocol.<init>(Protocol.java:112)
+	at com.sun.mail.pop3.POP3Store.getPort(POP3Store.java:264)
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:207)
+	... 11 more
+2014-09-30 14:19:37 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:19:38 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:19:38 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:19:40 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:19:40 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:19:41 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:19:41 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:19:41 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:19:42 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55803-1412079581983-0:1) is starting
+2014-09-30 14:19:42 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:19:42 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:19:42 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55803-1412079581983-0:1) started
+2014-09-30 14:19:42 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:19:42 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33574 mb of usable space - resetting to maximum available disk space: 33574 mb
+2014-09-30 14:19:42 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33574 mb of usable space - resetting to maximum available 33574 mb.
+2014-09-30 14:19:43 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:19:43 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:19:45 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:19:46 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:19:46 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='ffa9200c-9aac-40e6-8c2b-5b5387de5cd0', postfix=''}
+2014-09-30 14:19:54 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 15ab1870-489c-11e4-9960-001f162c4aa0 received. Discarding.
+2014-09-30 14:24:46 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:24:46 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:24:46 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:24:48 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:24:49 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:24:49 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:24:49 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:24:50 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:24:50 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55931-1412079890555-0:1) is starting
+2014-09-30 14:24:50 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:24:50 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:24:50 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-55931-1412079890555-0:1) started
+2014-09-30 14:24:50 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:24:50 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33574 mb of usable space - resetting to maximum available disk space: 33574 mb
+2014-09-30 14:24:50 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33574 mb of usable space - resetting to maximum available 33574 mb.
+2014-09-30 14:24:52 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:24:52 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:24:54 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:24:54 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:24:54 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='77586c35-82d3-43ef-8a12-b4bd78fdeaf6', postfix=''}
+2014-09-30 14:25:13 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID d3c971d0-489c-11e4-9e2b-001f162c4aa0 received. Discarding.
+2014-09-30 14:26:47 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:26:47 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:26:47 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:26:49 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:26:50 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:26:50 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:26:50 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:26:51 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:26:52 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56024-1412080011881-0:1) is starting
+2014-09-30 14:26:52 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:26:52 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:26:52 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56024-1412080011881-0:1) started
+2014-09-30 14:26:52 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:26:52 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33574 mb of usable space - resetting to maximum available disk space: 33574 mb
+2014-09-30 14:26:52 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33574 mb of usable space - resetting to maximum available 33574 mb.
+2014-09-30 14:26:53 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:26:53 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:26:56 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:26:56 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:28:23 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:28:23 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:28:23 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:28:25 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:28:26 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:28:26 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:28:26 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:28:27 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:28:27 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56094-1412080107421-0:1) is starting
+2014-09-30 14:28:27 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:28:27 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:28:27 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56094-1412080107421-0:1) started
+2014-09-30 14:28:27 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:28:27 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33574 mb of usable space - resetting to maximum available disk space: 33574 mb
+2014-09-30 14:28:27 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33574 mb of usable space - resetting to maximum available 33574 mb.
+2014-09-30 14:28:28 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:28:29 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:28:31 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:28:31 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:28:38 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='614947bb-147d-4a47-9ffe-cc8dae0b4f5e', postfix=''}
+2014-09-30 14:33:38 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:33:38 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:33:38 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:33:40 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:33:41 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:33:41 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:33:41 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:33:42 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:33:42 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56261-1412080422536-0:1) is starting
+2014-09-30 14:33:42 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:33:42 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:33:42 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56261-1412080422536-0:1) started
+2014-09-30 14:33:42 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:33:42 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33574 mb of usable space - resetting to maximum available disk space: 33574 mb
+2014-09-30 14:33:42 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33574 mb of usable space - resetting to maximum available 33574 mb.
+2014-09-30 14:33:44 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:33:44 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:33:46 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:33:46 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:33:46 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='4f9b8e22-4096-406c-8dd9-908621d541b4', postfix=''}
+2014-09-30 14:34:46 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 292ac920-489e-11e4-a358-001f162c4aa0 received. Discarding.
+2014-09-30 14:36:32 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:36:32 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:36:32 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:36:34 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:36:35 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:36:35 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:36:35 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:36:35 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:36:36 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56383-1412080596247-0:1) is starting
+2014-09-30 14:36:36 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:36:36 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:36:36 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56383-1412080596247-0:1) started
+2014-09-30 14:36:36 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:36:36 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33574 mb of usable space - resetting to maximum available disk space: 33574 mb
+2014-09-30 14:36:36 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33574 mb of usable space - resetting to maximum available 33574 mb.
+2014-09-30 14:36:37 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:36:37 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:36:39 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:36:40 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:36:40 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='673cb921-63ed-4935-870a-7cfa2b136eb3', postfix=''}
+2014-09-30 14:36:48 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 721551f0-489e-11e4-b197-001f162c4aa0 received. Discarding.
+2014-09-30 14:39:24 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 14:39:24 INFO  SmartCom:84 - Adding external components...
+2014-09-30 14:39:24 INFO  SmartCom:91 - Starting databases...
+2014-09-30 14:39:26 INFO  SmartCom:100 - Initializing components...
+2014-09-30 14:39:27 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 14:39:27 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage] started
+2014-09-30 14:39:27 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB]
+2014-09-30 14:39:27 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 14:39:28 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56478-1412080768099-0:1) is starting
+2014-09-30 14:39:28 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 14:39:28 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 14:39:28 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-56478-1412080768099-0:1) started
+2014-09-30 14:39:28 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 14:39:28 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\KahaDB only has 33574 mb of usable space - resetting to maximum available disk space: 33574 mb
+2014-09-30 14:39:28 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SALAM\SmartSoc\SmartSocDemo\activemq-data\localhost\tmp_storage only has 33574 mb of usable space - resetting to maximum available 33574 mb.
+2014-09-30 14:39:29 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 14:39:29 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 14:39:31 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 14:39:31 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 14:39:32 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='7927e646-dde4-4a7b-a5fa-cac9a5ec8db4', postfix=''}
+2014-09-30 14:39:40 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID d864e100-489e-11e4-998f-001f162c4aa0 received. Discarding.
+2014-09-30 16:53:24 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 16:53:24 INFO  SmartCom:84 - Adding external components...
+2014-09-30 16:53:24 INFO  SmartCom:91 - Starting databases...
+2014-09-30 16:53:27 INFO  SmartCom:100 - Initializing components...
+2014-09-30 16:53:27 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\tmp_storage] started
+2014-09-30 16:53:28 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\KahaDB]
+2014-09-30 16:53:28 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 16:53:28 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 16:53:29 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-58171-1412088809205-0:1) is starting
+2014-09-30 16:53:29 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 16:53:29 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 16:53:29 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-58171-1412088809205-0:1) started
+2014-09-30 16:53:29 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 16:53:29 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\KahaDB only has 32660 mb of usable space - resetting to maximum available disk space: 32660 mb
+2014-09-30 16:53:29 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\tmp_storage only has 32660 mb of usable space - resetting to maximum available 32660 mb.
+2014-09-30 16:53:30 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 16:53:30 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 16:53:33 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 16:53:34 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 16:53:34 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='fe911742-109c-4784-85b5-f24d6baebf98', postfix=''}
+2014-09-30 16:53:44 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 93181dc0-48b1-11e4-809e-001f162c4aa0 received. Discarding.
+2014-09-30 17:00:04 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 17:00:04 INFO  SmartCom:84 - Adding external components...
+2014-09-30 17:00:04 INFO  SmartCom:91 - Starting databases...
+2014-09-30 17:00:06 INFO  SmartCom:100 - Initializing components...
+2014-09-30 17:00:07 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\tmp_storage] started
+2014-09-30 17:00:07 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 17:00:07 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\KahaDB]
+2014-09-30 17:00:08 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 17:00:08 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-58264-1412089208306-0:1) is starting
+2014-09-30 17:00:08 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 17:00:08 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 17:00:08 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-58264-1412089208306-0:1) started
+2014-09-30 17:00:08 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 17:00:08 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\KahaDB only has 32660 mb of usable space - resetting to maximum available disk space: 32660 mb
+2014-09-30 17:00:08 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SmartSocDemo\smartsoc-demo\activemq-data\localhost\tmp_storage only has 32660 mb of usable space - resetting to maximum available 32660 mb.
+2014-09-30 17:00:09 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 17:00:09 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 17:00:11 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 17:00:11 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 17:00:12 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='a20b0e58-f352-4e56-8a3e-fb07b0dabf17', postfix=''}
+2014-09-30 17:00:22 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 80895560-48b2-11e4-bab1-001f162c4aa0 received. Discarding.
+2014-09-30 17:05:28 INFO  SmartCom:81 - Initializing SmartCom Communication Middleware...
+2014-09-30 17:05:28 INFO  SmartCom:84 - Adding external components...
+2014-09-30 17:05:28 INFO  SmartCom:91 - Starting databases...
+2014-09-30 17:05:31 INFO  SmartCom:100 - Initializing components...
+2014-09-30 17:05:31 INFO  ManagementContext:138 - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2014-09-30 17:05:31 INFO  PListStoreImpl:331 - PListStore:[D:\study\my research\experiments\SmartSocDemo\smartcom-salam-demo\activemq-data\localhost\tmp_storage] started
+2014-09-30 17:05:31 INFO  BrokerService:636 - Using Persistence Adapter: KahaDBPersistenceAdapter[D:\study\my research\experiments\SmartSocDemo\smartcom-salam-demo\activemq-data\localhost\KahaDB]
+2014-09-30 17:05:32 INFO  MessageDatabase:414 - Persistence store purged.
+2014-09-30 17:05:32 INFO  BrokerService:674 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-58373-1412089532577-0:1) is starting
+2014-09-30 17:05:32 INFO  TransportServerThreadSupport:69 - Listening for connections at: tcp://127.0.0.1:61616
+2014-09-30 17:05:32 INFO  TransportConnector:263 - Connector tcp://127.0.0.1:61616 started
+2014-09-30 17:05:32 INFO  BrokerService:695 - Apache ActiveMQ 5.10.0 (localhost, ID:thinking-58373-1412089532577-0:1) started
+2014-09-30 17:05:32 INFO  BrokerService:696 - For help or more information please see: http://activemq.apache.org
+2014-09-30 17:05:32 WARN  BrokerService:1945 - Store limit is 102400 mb (current store usage is 0 mb). The data directory: D:\study\my research\experiments\SmartSocDemo\smartcom-salam-demo\activemq-data\localhost\KahaDB only has 32671 mb of usable space - resetting to maximum available disk space: 32671 mb
+2014-09-30 17:05:32 ERROR BrokerService:1985 - Temporary Store limit is 51200 mb, whilst the temporary data directory: D:\study\my research\experiments\SmartSocDemo\smartcom-salam-demo\activemq-data\localhost\tmp_storage only has 32671 mb of usable space - resetting to maximum available 32671 mb.
+2014-09-30 17:05:33 INFO  SmartCom:103 - Creating component instances...
+2014-09-30 17:05:34 INFO  SmartCom:108 - Creating rest api...
+2014-09-30 17:05:36 INFO  SmartCom:113 - Adding default adapters...
+2014-09-30 17:05:36 INFO  SmartCom:118 - Initialization of SmartCom Communication Middleware complete!
+2014-09-30 17:05:37 INFO  AdapterExecutionEngine:118 - Adding pull adapter with id Identifier{type=ADAPTER, id='af06a192-6477-4a0e-9aa2-8a7eb90b96df', postfix=''}
+2014-09-30 17:05:45 WARN  MessagingAndRoutingManager:139 - Message with a pre-set ID 41462760-48b3-11e4-96a8-001f162c4aa0 received. Discarding.

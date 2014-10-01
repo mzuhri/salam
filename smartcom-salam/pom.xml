@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>smartcom-salam-demo</artifactId>
+    <artifactId>smartcom-salam</artifactId>
 
     <dependencies>
         <dependency>
@@ -34,4 +34,8 @@
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
+    <packaging>pom</packaging>
+    <modules>
+    	<module>smartcom-salam-demo</module>
+    </modules>
 </project>
